@@ -1,6 +1,6 @@
 {
   "name": "harp-from-the-future",
-  "version": "0.11.2",
+  "version": "0.12.0",
   "description": "Zeke's fork of harp with support for browserify and github-based project templates",
   "author": "Zeke Sikelianos <zeke@sikelianos.com>",
   "contributors": [
