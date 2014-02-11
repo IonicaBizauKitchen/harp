@@ -82,7 +82,7 @@
   "preferGlobal": true,
   "readmeFilename": "README.md",
   "bin": {
-    "harp": "./bin/harp"
+    "harp-from-the-future": "./bin/harp"
   },
   "engines": {
     "node": ">=0.8"
