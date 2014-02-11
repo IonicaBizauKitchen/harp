@@ -1,8 +1,8 @@
 {
-  "name": "harp",
+  "name": "harp-from-the-future",
   "version": "0.11.2",
-  "description": "Static web server with built in preprocessing",
-  "author": "Brock Whitten <brock@chloi.io>",
+  "description": "Zeke's fork of harp with support for browserify and github-based project templates",
+  "author": "Zeke Sikelianos <zeke@sikelianos.com>",
   "contributors": [
     {
       "name": "Brock Whitten",
@@ -58,9 +58,8 @@
     }
   ],
   "homepage": "http://harpjs.com",
-  "bugs": "http://github.com/sintaxi/harp/issues",
   "main": "./lib/index.js",
-  "repository" : { "type" : "git", "url" : "https://github.com/sintaxi/harp.git" },
+  "repository" : { "type" : "git", "url" : "https://github.com/zeke/harp.git" },
   "dependencies":{
     "terraform": "https://github.com/zeke/terraform/tarball/browserify",
     "commander": "2.0.0",
